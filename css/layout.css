@@ -1,1 +1,21 @@
 /*your custom CSS here*/
+.body {
+    padding: 20px;
+}
+
+div.grid_4 {
+    padding: 10px;
+}
+
+img {
+    margin: 20px;
+    width: 75%;
+}
+
+.heading {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding.bottom: 20px;
+}
